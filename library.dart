@@ -5,3 +5,7 @@ String sayHello(name){
 String sayGuest(){
   return 'Hello';
 }
+
+int sum(a, b){
+  return a + b;
+}
