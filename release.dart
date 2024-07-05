@@ -1,0 +1,3 @@
+bool isRelease(){
+  return true;
+}
